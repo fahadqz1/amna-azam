@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git revert *)",
+      "Bash(git ls-tree *)",
+      "Read(//c/Users/fahad/Desktop/**)",
+      "Bash(npm list *)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\fahad\\Desktop\\amna-azam-store\\src"
+    ]
+  }
+}
