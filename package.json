@@ -24,8 +24,6 @@
     "@fontsource-variable/cormorant-garamond": "^5.3.0",
     "@fontsource-variable/jost": "^5.3.0",
     "@rolldown/binding-win32-x64-msvc": "^1.2.19",
-    "@tailwindcss/postcss": "4.3.3",
-    "@tailwindcss/turbopack": "4.3.3",
     "@types/node": "^24.19.2",
     "@types/react": "^19",
     "@types/react-dom": "^19",
@@ -35,7 +33,7 @@
     "playwright-core": "^1.65.1",
     "postcss": "^8.4.33",
     "sharp": "^0.35.5",
-    "tailwindcss": "4.3.3",
+    "tailwindcss": "^3.4.1",
     "typescript": "^5",
     "vitest": "^5.1.0"
   }
